@@ -1,0 +1,10 @@
+torch
+torchvision
+timm
+pydicom
+opencv-python-headless
+scikit-learn
+pandas
+numpy
+tqdm
+kaggle

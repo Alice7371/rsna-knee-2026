@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+artifacts/
+*.pt
+*.csv
+*.log
+nohup.out
+.env
